@@ -43,7 +43,7 @@ namespace AyurTestApp.Controllers
                         sqlConnHomeDAL.Close();
                     }
                 }
-                return "This is the Welcome action method..."+ "number of databases: "+ countdb.ToString();
+                return "This is the Welcome action method..."+ "number ofcon databases: "+ countdb.ToString();
             }
             catch (Exception e)
             {
