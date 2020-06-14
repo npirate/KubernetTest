@@ -20,6 +20,7 @@ namespace AyurTestApp.Controllers
 
         public string Index()
         {
+            Welcome();
             return "This is my default action...";
         }
 

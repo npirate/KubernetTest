@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thako\\source\\repos\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj": {}
+    "C:\\Users\\Nisarg\\Downloads\\KubernetTest\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thako\\source\\repos\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj": {
+    "C:\\Users\\Nisarg\\Downloads\\KubernetTest\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thako\\source\\repos\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj",
+        "projectUniqueName": "C:\\Users\\Nisarg\\Downloads\\KubernetTest\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj",
         "projectName": "AyurTestApp",
-        "projectPath": "C:\\Users\\thako\\source\\repos\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj",
-        "packagesPath": "C:\\Users\\thako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thako\\source\\repos\\AyurTestApp\\AyurTestApp\\obj\\",
+        "projectPath": "C:\\Users\\Nisarg\\Downloads\\KubernetTest\\AyurTestApp\\AyurTestApp\\AyurTestApp.csproj",
+        "packagesPath": "C:\\Users\\Nisarg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nisarg\\Downloads\\KubernetTest\\AyurTestApp\\AyurTestApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thako\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nisarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
