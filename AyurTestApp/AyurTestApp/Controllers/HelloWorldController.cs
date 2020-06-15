@@ -42,6 +42,8 @@ namespace AyurTestApp.Controllers
                         countdb= (int)sqlCmd.ExecuteScalar();
                         sqlConnHomeDAL.Close();
                     }
+
+                    ViewBag.count = countdb;
                 }
                 return "This is the Welcome action method..."+ "number ofcon databases: "+ countdb.ToString();
             }
